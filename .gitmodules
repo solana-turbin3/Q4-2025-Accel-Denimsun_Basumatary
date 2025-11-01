@@ -1,3 +1,6 @@
 [submodule "anchor-escrow-with-litesvm"]
 	path = anchor-escrow-with-litesvm
 	url = https://github.com/denimcodes/anchor-escrow-with-litesvm.git
+[submodule "whitelist-transfer-hook"]
+	path = whitelist-transfer-hook
+	url = https://github.com/denimcodes/whitelist-transfer-hook.git
