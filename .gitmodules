@@ -4,3 +4,6 @@
 [submodule "whitelist-transfer-hook"]
 	path = whitelist-transfer-hook
 	url = https://github.com/denimcodes/whitelist-transfer-hook.git
+[submodule "vault-whitelist"]
+	path = vault-whitelist
+	url = https://github.com/denimcodes/vault-whitelist.git
